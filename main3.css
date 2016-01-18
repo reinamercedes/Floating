@@ -1,0 +1,19 @@
+.yellow {
+	background-color: yellow;
+}
+.blue {
+	background-color: blue;
+}
+.pink {
+	background-color: #ED2251;
+}
+.caja {
+	width: 100px;
+	height: 25px;
+	float: right;
+}
+.father {
+	width:300px;
+	background-color: white;
+	border: solid grey 1px;
+}
